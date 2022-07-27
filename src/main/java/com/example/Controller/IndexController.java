@@ -15,6 +15,6 @@ public class IndexController {
 
     @GetMapping(value = "login")
     public String login(){
-        return "hello";
+        return "hello1";
     }
 }
